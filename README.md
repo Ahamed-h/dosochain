@@ -22,14 +22,15 @@ Dosochain is a blockchain prototype built with **Streamlit** and **Python** for 
 git clone https://github.com/Ahamed-h/dosochain.git
 cd main.py
 pip install -r requirements.txt
-
-
-## 📦 Installation
-```bash
-git clone https://github.com/Ahamed-h/dosochain.git
-cd main.py
-pip install -r requirements.txt 
-
-## ▶️ Usage
+```
+▶️ Usage
 ```bash
 streamlit run main.py
+```
+👨‍💻 Authors
+
+Ahamed H
+
+Aashif M
+
+
