@@ -3,6 +3,11 @@
 
 Dosochain is a blockchain prototype built with **Streamlit** and **Python** for secure prescription issuing and verification.
 
+streamlit link:
+```
+https://dosochaingit-hcshk4x9xuraqdnnvdxwrk.streamlit.app
+```
+
 ## 🚀 Features
 - Doctor registration with **public/private key pairs**
 - Prescription issuing with **ECDSA digital signatures**
